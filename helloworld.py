@@ -1,3 +1,6 @@
 print("hello world")
+print("I love python")
 print("My name is manmeet")
+print("I am studying Btech")
 print("I am using python")
+print("Bye")
